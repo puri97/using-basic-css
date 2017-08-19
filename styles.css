@@ -1,0 +1,15 @@
+
+h1
+{  color:blue;/** this is used to make the font colour to blue */
+	font-family:monospace;/** this property changes the font style */
+	font-size:100pt;/** this is to alter the size */
+     
+}
+h1:hover/** It changes the appearance of the font when you put the mouse pointer on it. */
+{
+color:black;/** changes colour of the text*/
+background:white;/** Keeps the background surrounding the text white */
+}  
+body{
+background:pink;/**This is used to change the background colour!*/
+}
